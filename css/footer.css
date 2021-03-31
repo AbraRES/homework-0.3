@@ -1,0 +1,9 @@
+.button {
+    padding: 22px 35px;
+    color:#626262;
+    font-family:'PlayfairDisplay';
+    font-weight: 400;
+    font-size: 20px;
+    margin: 0 auto 70px; 
+    display: block;
+}
